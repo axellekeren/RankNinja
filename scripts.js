@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 { name: 'Silver ke Gold', price: 'Rp 50.000 - Rp 100.000' },
                 { name: 'Gold ke Platinum', price: 'Rp 100.000 - Rp 200.000' },
                 { name: 'Platinum ke Diamond', price: 'Rp 200.000 - Rp 400.000' },
-                { name: 'Diamond ke Heroic', price: 'Rp 400.000 - Rp 800.000' }
+                { name: 'Diamond ke Heroic', price: 'Rp 400.000 - Rp 700.000' }
             ],
             description: 'Layanan joki untuk meningkatkan rank akun Free Fire Anda.',
             image: 'ff_service_image.jpg'
