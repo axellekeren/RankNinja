@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 { name: 'Diamond ke Heroic', price: 'Rp 400.000 - Rp 700.000' }
             ],
             description: 'Layanan joki untuk meningkatkan rank akun Free Fire Anda.',
-            image: 'ff_service_image.jpg'
+            image: '77cf1c3c3e93b6736fac11b2e8ff43c9.jpg'
         },
         {
             name: 'Joki Mobile Legends Rank Boosting',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 { name: 'Legend ke Mythic', price: 'Rp 380.000 - Rp 700.000' }
             ],
             description: 'Layanan joki untuk meningkatkan rank akun Mobile Legends Anda.',
-            image: 'ml_service_image.jpg'
+            image: '61adc589b4bfe3a1651f0e2d12882681.jpg'
         }
     ];
 
